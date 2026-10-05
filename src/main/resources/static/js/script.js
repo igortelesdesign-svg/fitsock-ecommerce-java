@@ -402,7 +402,7 @@ function initCart() {
     const checkoutBtn = document.getElementById("btn-checkout");
     if (checkoutBtn) {
         checkoutBtn.addEventListener("click", () => {
-            alert("🎉 Parabéns! Compra simulada com sucesso no FITSOCK E-commerce!\n\nEste é um projeto acadêmico de demonstração.");
+            alert(" Parabéns! Compra simulada com sucesso no FITSOCK E-commerce!\n\nEste é um projeto acadêmico de demonstração.");
             saveCart([]);
         });
     }

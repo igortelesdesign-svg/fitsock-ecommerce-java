@@ -30,7 +30,7 @@ public class HomeController {
                 "Corrida",
                 39.90,
                 49.90,
-                "/images/produtos/fitsock-run-pro.jpg",
+                "https://images.unsplash.com/photo-1582966772680-860e372bb558?w=800&auto=format&fit=crop&q=80",
                 4.9,
                 20,
                 "Preto / Verde Neon"
@@ -43,7 +43,7 @@ public class HomeController {
                 "Academia",
                 34.90,
                 44.90,
-                "/images/produtos/fitsock-training.jpg",
+                "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=800&auto=format&fit=crop&q=80",
                 4.8,
                 22,
                 "Preto / Branco"
@@ -56,7 +56,7 @@ public class HomeController {
                 "Cross",
                 42.90,
                 52.90,
-                "/images/produtos/fitsock-cross.jpg",
+                "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&auto=format&fit=crop&q=80",
                 4.9,
                 19,
                 "Cinza / Neon"
@@ -69,7 +69,7 @@ public class HomeController {
                 "Corrida",
                 44.90,
                 54.90,
-                "/images/produtos/fitsock-performance.jpg",
+                "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=800&auto=format&fit=crop&q=80",
                 5.0,
                 18,
                 "Preto"
@@ -82,7 +82,7 @@ public class HomeController {
                 "Casual",
                 29.90,
                 35.90,
-                "/images/produtos/fitsock-basic.jpg",
+                "https://images.unsplash.com/photo-1552902865-b72c031ac5ea?w=800&auto=format&fit=crop&q=80",
                 4.7,
                 17,
                 "Branco"
@@ -95,7 +95,7 @@ public class HomeController {
                 "Corrida",
                 39.90,
                 49.90,
-                "/images/produtos/fitsock-runner.jpg",
+                "https://images.unsplash.com/photo-1607522370275-f14206abe5d3?w=800&auto=format&fit=crop&q=80",
                 4.8,
                 20,
                 "Azul Petróleo / Neon"
@@ -108,7 +108,7 @@ public class HomeController {
                 "Academia",
                 46.90,
                 58.90,
-                "/images/produtos/fitsock-grip.jpg",
+                "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=800&auto=format&fit=crop&q=80",
                 4.9,
                 20,
                 "Preto / Antiderrapante"
@@ -121,7 +121,7 @@ public class HomeController {
                 "Ciclismo",
                 49.90,
                 62.90,
-                "/images/produtos/fitsock-endurance.jpg",
+                "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?w=800&auto=format&fit=crop&q=80",
                 5.0,
                 21,
                 "Cinza Escuro / Neon"

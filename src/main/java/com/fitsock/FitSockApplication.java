@@ -13,8 +13,8 @@ public class FitSockApplication {
     public static void main(String[] args) {
         SpringApplication.run(FitSockApplication.class, args);
         System.out.println("==================================================");
-        System.out.println("🚀 FITSOCK E-COMMERCE INICIADO COM SUCESSO!");
-        System.out.println("👉 Acesse a loja no navegador: http://localhost:8080");
+        System.out.println(" FITSOCK E-COMMERCE INICIADO COM SUCESSO!");
+        System.out.println(" Acesse a loja no navegador: http://localhost:8080");
         System.out.println("==================================================");
     }
 
