@@ -1,9 +1,9 @@
-# 🧦 FITSOCK - Performance em Cada Passo
+#  FITSOCK - Performance em Cada Passo
 **Projeto Acadêmico Completo de E-Commerce de Meias Fitness e Esportivas**
 
 ---
 
-## 📋 Sobre o Projeto
+##  Sobre o Projeto
 O **FITSOCK** é um projeto de e-commerce moderno e profissional desenvolvido para uma atividade acadêmica. A loja é especializada em meias esportivas de alto rendimento para corrida, musculação/fitness, Cross Training, ciclismo e lifestyle.
 
 ### 🛠️ Tecnologias Obrigatórias Utilizadas
@@ -17,7 +17,7 @@ O **FITSOCK** é um projeto de e-commerce moderno e profissional desenvolvido pa
 
 ---
 
-## 📁 Estrutura de Pastas e Arquivos
+## Estrutura de Pastas e Arquivos
 
 ```text
 fitsock/
@@ -53,7 +53,7 @@ fitsock/
 
 ---
 
-## 🚀 Como Executar o Projeto
+##  Como Executar o Projeto
 
 ### Pré-requisitos
 * **Java JDK 17** ou superior instalado na máquina.
@@ -76,7 +76,7 @@ fitsock/
 
 ---
 
-## 🎨 Identidade Visual
+##  Identidade Visual
 * **Preto (#111111):** Fundo de cabeçalho, contraste e rodapé premium.
 * **Verde Neon (#B7FF00):** Destaque em botões, tags de desconto, indicadores ativos e chamadas para ação (CTA).
 * **Branco (#FFFFFF) & Cinza Claro (#F5F5F5):** Área de respiração e cards modernos com sombras suaves.
