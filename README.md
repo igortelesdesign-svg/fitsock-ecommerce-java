@@ -6,7 +6,7 @@
 ##  Sobre o Projeto
 O **FITSOCK** é um projeto de e-commerce moderno e profissional desenvolvido para uma atividade acadêmica. A loja é especializada em meias esportivas de alto rendimento para corrida, musculação/fitness, Cross Training, ciclismo e lifestyle.
 
-### 🛠️ Tecnologias Obrigatórias Utilizadas
+### Tecnologias Obrigatórias Utilizadas
 * **Java 17**
 * **Spring Boot 3.2.4** (com Tomcat embutido)
 * **Maven** (Gerenciador de dependências e build)
